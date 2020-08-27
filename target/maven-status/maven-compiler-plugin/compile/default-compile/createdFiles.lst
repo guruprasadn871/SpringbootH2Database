@@ -1,0 +1,3 @@
+com\springboot\h2\repository\StudentRepository.class
+com\springboot\h2\controller\StudentController.class
+com\springboot\h2\service\StudentService.class
